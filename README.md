@@ -1,4 +1,4 @@
-## Mon personnage animé en SVG
+# Mon personnage animé en SVG
 
 Ce projet utilise du code JavaScript et SVG pour créer un personnage animé sous forme d'un fichier SVG. Le personnage est représenté sous forme de plusieurs éléments graphiques, tels que des formes, des chemins et des gradients, pour créer une illustration animée.
 
